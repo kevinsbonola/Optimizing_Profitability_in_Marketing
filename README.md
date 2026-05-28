@@ -1,10 +1,10 @@
 # Project Overview
 Comprehensive analysis of marketing data and customer behavior for the ticketing platform "Showz". This project focuses on optimizing marketing spend by analyzing server logs, order history, and customer acquisition costs.
 
-# Objective
+## Objective
 To transform raw data into strategic recommendations for the marketing department, determining campaign profitability and Customer Lifetime Value (LTV).
 
-# Skills & Tools
+## Skills & Tools
 
 Python: Pandas, Matplotlib, Seaborn.
 
@@ -12,7 +12,7 @@ Business Intelligence: Cohort Analysis, LTV (Lifetime Value), ROMI (Return on Ma
 
 Data Analysis: Log cleaning, conversion funnel analysis, and retention metrics.
 
-# Key Findings & Results
+## Key Findings & Results
 
 Ad Source Efficiency: Evaluated marketing channel performance based on Customer Acquisition Cost (CAC).
 
